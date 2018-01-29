@@ -33,6 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Getting familiar with Swift programming language was a bit of a challege as I had no prior knowledge about Swift. Overall, 
+enjoyable experience learning Swift while making an iOS APP.
+
 ## License
 
     Copyright [2018] [Israel]
