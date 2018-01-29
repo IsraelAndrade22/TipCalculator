@@ -29,6 +29,10 @@ Here's a walkthrough of implemented user stories: [Video](https://www.youtube.co
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Link to GIF
+
+[GIF](https://drive.google.com/drive/folders/1bf6WJvn2NgkQBkb7NFv3n1_CP_rtGqq-?usp=sharing) illustrating app
+
 ## Notes
 
 Describe any challenges encountered while building the app.
